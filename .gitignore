@@ -5,5 +5,7 @@
 *.docx
 *.exe
 *.o
+*.x
+*.mod
 *.obj
 *.zip
